@@ -28,3 +28,9 @@ Este projeto é um **identificador de música**, desenvolvida com **HTML, CSS e 
 
 ## API utilizada e documentação
 - Auddi.o
+
+
+## Interface
+
+<img width="1895" height="902" alt="Captura de tela 2026-02-13 100415" src="https://github.com/user-attachments/assets/909395ba-810e-42de-93a7-824cf618e14d" />
+
